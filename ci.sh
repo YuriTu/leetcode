@@ -2,3 +2,5 @@
 
 git add .
 git ci --no-verify -m $1
+git pull
+git push
